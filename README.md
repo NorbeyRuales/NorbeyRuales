@@ -21,7 +21,10 @@ Construyo aplicaciones web enfocadas en resolver necesidades reales de negocios,
 ## Tecnologías y herramientas
 
 <p align="center">
-  <img src="./assets/tech-carousel.gif" width="100%" alt="Carrusel animado de HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, Vercel, Figma, VS Code y ChatGPT" />
+  <picture>
+    <source srcset="./assets/tech-carousel.svg" type="image/svg+xml" />
+    <img src="./assets/tech-carousel.gif" width="100%" alt="Carrusel animado de HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, Vercel, Figma, VS Code y ChatGPT" />
+  </picture>
 </p>
 
 ## Proyectos destacados
