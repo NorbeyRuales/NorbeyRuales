@@ -21,7 +21,7 @@ Construyo aplicaciones web enfocadas en resolver necesidades reales de negocios,
 ## Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,supabase,postgres,git,github,vercel,figma&theme=dark&perline=14" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, Vercel y Figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,supabase,postgres,git,github,vercel,figma,vscode&theme=dark&perline=14" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, Vercel y Figma" />
 </p>
 
 ## Proyectos destacados
