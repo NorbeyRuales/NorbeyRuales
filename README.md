@@ -34,10 +34,13 @@ Sistema POS para tiendas minoristas con ventas, inventario, caja, clientes, prov
 
 <p>
   <a href="https://punto-de-venta-completo.vercel.app/" title="Ver aplicación">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Ver aplicación en Vercel" />
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="42" alt="Vercel" align="middle" />
+    <strong>Ver aplicación</strong>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/NorbeyRuales/punto-de-venta-" title="Ver código">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="Ver código en GitHub" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub" align="middle" />
+    <strong>Ver código</strong>
   </a>
 </p>
 
@@ -51,10 +54,13 @@ Aplicación para administrar clientes, sedes, equipos, órdenes de trabajo, fact
 
 <p>
   <a href="https://gestion-de-servicios-snowy.vercel.app/" title="Ver aplicación">
-    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Ver aplicación en Vercel" />
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="42" alt="Vercel" align="middle" />
+    <strong>Ver aplicación</strong>
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/NorbeyRuales/gestion-de-servicios" title="Ver código">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="Ver código en GitHub" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub" align="middle" />
+    <strong>Ver código</strong>
   </a>
 </p>
 
@@ -70,7 +76,8 @@ Plataforma web en desarrollo para un negocio de repuestos y servicios de motores
 
 <p>
   <a href="https://github.com/NorbeyRuales/Bah-a-Nacho-WebSite" title="Ver código">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="Ver código en GitHub" />
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42" alt="GitHub" align="middle" />
+    <strong>Ver código</strong>
   </a>
 </p>
 
