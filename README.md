@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hola, soy Norbey Ruales 👋
+<h1 align="center">Hola, soy Norbey Ruales <img src="./assets/waving-hand.svg" width="36" alt="Mano saludando" /></h1>
 
 ### Desarrollador de software | React, TypeScript y Supabase
 
