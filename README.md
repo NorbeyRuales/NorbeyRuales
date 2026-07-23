@@ -18,10 +18,10 @@ Construyo aplicaciones web enfocadas en resolver necesidades reales de negocios,
 - 🔐 Trabajo en autenticación, bases de datos, seguridad con RLS, operación offline y despliegues en Vercel.
 - 📍 Colombia.
 
-## Tecnologías
+## Tecnologías y herramientas
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,nodejs,supabase,postgres,git,github,vercel,figma,vscode&theme=dark&perline=14" alt="HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, Vercel y Figma" />
+<p align="center">
+  <img src="./assets/tech-carousel.gif" width="100%" alt="Carrusel animado de HTML, CSS, JavaScript, TypeScript, React, Vite, Tailwind CSS, Node.js, Supabase, PostgreSQL, Git, GitHub, Vercel, Figma, VS Code y ChatGPT" />
 </p>
 
 ## Proyectos destacados
