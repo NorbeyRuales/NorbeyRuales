@@ -32,24 +32,14 @@ Sistema POS para tiendas minoristas con ventas, inventario, caja, clientes, prov
 
 **Tecnologías:** React, Vite, Supabase, Tailwind CSS y Recharts.
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://punto-de-venta-completo.vercel.app/" title="Ver aplicación">
-        <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" />
-        <br />
-        <strong>Ver aplicación</strong>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/NorbeyRuales/punto-de-venta-" title="Ver código">
-        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
-        <br />
-        <strong>Ver código</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://punto-de-venta-completo.vercel.app/" title="Ver aplicación">
+    <img src="https://img.shields.io/badge/VER_APLICACIÓN-16A34A?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Ver aplicación" />
+  </a>
+  <a href="https://github.com/NorbeyRuales/punto-de-venta-" title="Ver código">
+    <img src="https://img.shields.io/badge/VER_CÓDIGO-334155?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Ver código" />
+  </a>
+</p>
 
 ---
 
@@ -59,24 +49,14 @@ Aplicación para administrar clientes, sedes, equipos, órdenes de trabajo, fact
 
 **Tecnologías:** React, TypeScript, Vite, Supabase, Tailwind CSS y Vitest.
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://gestion-de-servicios-snowy.vercel.app/" title="Ver aplicación">
-        <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Vercel" />
-        <br />
-        <strong>Ver aplicación</strong>
-      </a>
-    </td>
-    <td align="center" width="150">
-      <a href="https://github.com/NorbeyRuales/gestion-de-servicios" title="Ver código">
-        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
-        <br />
-        <strong>Ver código</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://gestion-de-servicios-snowy.vercel.app/" title="Ver aplicación">
+    <img src="https://img.shields.io/badge/VER_APLICACIÓN-16A34A?style=for-the-badge&logo=vercel&logoColor=white" height="32" alt="Ver aplicación" />
+  </a>
+  <a href="https://github.com/NorbeyRuales/gestion-de-servicios" title="Ver código">
+    <img src="https://img.shields.io/badge/VER_CÓDIGO-334155?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Ver código" />
+  </a>
+</p>
 
 ---
 
@@ -88,17 +68,11 @@ Plataforma web en desarrollo para un negocio de repuestos y servicios de motores
 
 **Estado:** 🟡 En desarrollo
 
-<table>
-  <tr>
-    <td align="center" width="150">
-      <a href="https://github.com/NorbeyRuales/Bah-a-Nacho-WebSite" title="Ver código">
-        <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="GitHub" />
-        <br />
-        <strong>Ver código</strong>
-      </a>
-    </td>
-  </tr>
-</table>
+<p>
+  <a href="https://github.com/NorbeyRuales/Bah-a-Nacho-WebSite" title="Ver código">
+    <img src="https://img.shields.io/badge/VER_CÓDIGO-334155?style=for-the-badge&logo=github&logoColor=white" height="32" alt="Ver código" />
+  </a>
+</p>
 
 ## Actualmente
 
