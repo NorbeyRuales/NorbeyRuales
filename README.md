@@ -32,8 +32,14 @@ Sistema POS para tiendas minoristas con ventas, inventario, caja, clientes, prov
 
 **Tecnologías:** React, Vite, Supabase, Tailwind CSS y Recharts.
 
-[![Ver aplicación](https://img.shields.io/badge/Ver_aplicación-22C55E?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://punto-de-venta-completo.vercel.app/)
-[![Ver código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/NorbeyRuales/punto-de-venta-)
+<p>
+  <a href="https://punto-de-venta-completo.vercel.app/" title="Ver aplicación">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Ver aplicación en Vercel" />
+  </a>
+  <a href="https://github.com/NorbeyRuales/punto-de-venta-" title="Ver código">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="Ver código en GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -43,8 +49,14 @@ Aplicación para administrar clientes, sedes, equipos, órdenes de trabajo, fact
 
 **Tecnologías:** React, TypeScript, Vite, Supabase, Tailwind CSS y Vitest.
 
-[![Ver aplicación](https://img.shields.io/badge/Ver_aplicación-22C55E?style=for-the-badge&logo=vercel&logoColor=ffffff)](https://gestion-de-servicios-snowy.vercel.app/)
-[![Ver código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/NorbeyRuales/gestion-de-servicios)
+<p>
+  <a href="https://gestion-de-servicios-snowy.vercel.app/" title="Ver aplicación">
+    <img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="48" alt="Ver aplicación en Vercel" />
+  </a>
+  <a href="https://github.com/NorbeyRuales/gestion-de-servicios" title="Ver código">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="Ver código en GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -54,8 +66,13 @@ Plataforma web en desarrollo para un negocio de repuestos y servicios de motores
 
 **Tecnologías:** React, TypeScript, Vite, Supabase, Tailwind CSS y Recharts.
 
-![Estado](https://img.shields.io/badge/Estado-En_desarrollo-F59E0B?style=for-the-badge)
-[![Ver código](https://img.shields.io/badge/Ver_código-181717?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/NorbeyRuales/Bah-a-Nacho-WebSite)
+**Estado:** 🟡 En desarrollo
+
+<p>
+  <a href="https://github.com/NorbeyRuales/Bah-a-Nacho-WebSite" title="Ver código">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" alt="Ver código en GitHub" />
+  </a>
+</p>
 
 ## Actualmente
 
