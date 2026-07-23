@@ -7,6 +7,7 @@
 Construyo aplicaciones web enfocadas en resolver necesidades reales de negocios, con interfaces claras, bases de datos seguras y despliegues listos para producción.
 
 [![GitHub](https://img.shields.io/badge/GitHub-NorbeyRuales-181717?style=for-the-badge&logo=github)](https://github.com/NorbeyRuales)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ver_perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dully-ruales/)
 
 </div>
 
@@ -85,7 +86,7 @@ Plataforma web en desarrollo para un negocio de repuestos y servicios de motores
 
 ## Contacto
 
-Puedes encontrarme y revisar mis proyectos en [GitHub](https://github.com/NorbeyRuales).
+Puedes revisar mis proyectos en [GitHub](https://github.com/NorbeyRuales) y conocer mi perfil profesional en [LinkedIn](https://www.linkedin.com/in/dully-ruales/).
 
 <div align="center">
 
